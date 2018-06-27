@@ -21,7 +21,7 @@ an [issue](https://github.com/ionic-team/ionic/issues/new) on this repository.
 
 ### Contributing
 
-Thanks for your interest in contributing! Read up on our guidelines for
+Thanks for your interest in contributing! Read up on our guidelines for this
 [contributing](https://github.com/ionic-team/ionic/blob/master/.github/CONTRIBUTING.md)
 and then look through our issues with a [help wanted](https://github.com/ionic-team/ionic/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 label.
@@ -33,7 +33,7 @@ The [Ionic Conference App](https://github.com/ionic-team/ionic-conference-app) i
 It is the perfect starting point for learning and building your own app.
 
 
-### Future Goals
+### Future Goals for your project
 
 As Ionic components migrate to the web component standard, a goal of ours is to have Ionic components easily work within all of the popular frameworks.
 
